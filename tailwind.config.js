@@ -2,6 +2,7 @@
 module.exports = {
   content: ['./public/**/*.{html, js}'],
   theme: {
+    /** Tailwind By Kadavi Raditya A */
     extend: {
       colors: {
         coffeecol: '#FAB876',
